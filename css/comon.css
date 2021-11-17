@@ -450,6 +450,7 @@ justify-content: center;
   padding: 10px 20px;
   outline: none;
   resize: none;
+  margin-bottom: 20px;
   
 }
 .modal-text:focus {
@@ -489,10 +490,9 @@ justify-content: center;
  }
 
  .modal-field {
-   padding-left: 15px;
-   margin-bottom: 20px;
+   /* margin-bottom: 10px; */
  }
-
+ 
 
  .input-icon-check {
    fill: #ffffff;
